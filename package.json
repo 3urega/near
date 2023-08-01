@@ -1,6 +1,6 @@
 {
   "name": "@eurega/near",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Eurega lib to interact with mintbase & near",
   "main": "lib/index.js",
   "publishConfig": {
@@ -26,7 +26,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/daniel-explorins/near-lib"
+    "url": "https://github.com/3urega/near"
   },
   "files": [
     "package.json",
